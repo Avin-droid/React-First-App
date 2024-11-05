@@ -1,0 +1,76 @@
+h2 
+{
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: black;
+    margin-bottom: 20px;
+}
+
+table 
+{
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    background-color: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+th, td 
+{
+    padding: 12px 15px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+th 
+{
+    background-color: silver;
+    color:black;
+    font-weight: bold;
+}
+
+td 
+{
+    color: black
+}
+
+button 
+{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.delete-btn 
+{
+    background-color: grey;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.delete-btn:hover 
+{
+    background-color: red
+}
+
+.update-btn
+{
+    background-color: black;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.update-btn:hover
+{
+    background-color: green;
+}
+
+
